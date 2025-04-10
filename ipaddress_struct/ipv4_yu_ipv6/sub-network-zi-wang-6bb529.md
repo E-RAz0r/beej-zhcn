@@ -1,4 +1,4 @@
-# 31.1. Sub network (子网)
+# 3.1.1. Sub network (子网)
 
 为了结构化的理由，有时我们这样宣告是很方便的：＂IP address 的前段是 IP address 的 network（网路），而後面的部分是 host（主机）。＂
 
